@@ -1,1 +1,16 @@
+.title{
+  text-transform: uppercase;
+}
+.work-exp{
+  text-transform: uppercase;
+  text-decoration:underline;
+}
+.education{
+  text-decoration:underline;
+  text-transform:uppercase;
+}
+body{
+  
+  background-image: linear-gradient(lightgray, lightpink);
 
+}
