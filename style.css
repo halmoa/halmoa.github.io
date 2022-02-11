@@ -10,7 +10,10 @@
   text-transform:uppercase;
 }
 body{
-  
-  background-image: linear-gradient(lightgray, lightpink);
-
+  text-align:center;
+  background-image: url("https://images.pexels.com/photos/2824173/pexels-photo-2824173.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500")
+}
+ul {
+    text-align: center;
+    list-style-position: inside;
 }
