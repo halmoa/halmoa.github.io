@@ -5,10 +5,10 @@
   text-transform: uppercase;
   text-decoration:underline;
 }
-.education{
-  text-decoration:underline;
-  text-transform:uppercase;
+.fa-solid fa-briefcase{
+  position: fixed; left:80px;
 }
+
 body{
   text-align:center;
   background-image: url("https://images.pexels.com/photos/2824173/pexels-photo-2824173.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500")
