@@ -15,7 +15,13 @@ ul {
     list-style-position: inside;
 }
 .objective{
-   margin: 0;
+  margin: 0;
   padding: 5px;
   background-color: lightgray;
 }
+.mnhospice{
+margin: 0;
+  padding: 5px;
+  background-color: lightgray;
+}
+
